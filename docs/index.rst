@@ -12,7 +12,7 @@ Ford cars come with powerful in-car navigation systems that help drivers find th
    :alt: My Project Logo
    :width: 350px
    :align: center
-   :target: https://ramgpsmapupdate.com
+   :target: https://fordgpsupdate.com
 
 This article goes through all the steps needed to update a Ford GPS map, from getting ready to putting it in.
 
